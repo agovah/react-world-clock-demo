@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-world-clock-demo/static/css/main.654d8047.chunk.css",
+    "main.js": "/react-world-clock-demo/static/js/main.439a17c6.chunk.js",
+    "main.js.map": "/react-world-clock-demo/static/js/main.439a17c6.chunk.js.map",
+    "runtime-main.js": "/react-world-clock-demo/static/js/runtime-main.d7f45e22.js",
+    "runtime-main.js.map": "/react-world-clock-demo/static/js/runtime-main.d7f45e22.js.map",
+    "static/css/2.c8e6cc25.chunk.css": "/react-world-clock-demo/static/css/2.c8e6cc25.chunk.css",
+    "static/js/2.2a03399f.chunk.js": "/react-world-clock-demo/static/js/2.2a03399f.chunk.js",
+    "static/js/2.2a03399f.chunk.js.map": "/react-world-clock-demo/static/js/2.2a03399f.chunk.js.map",
+    "index.html": "/react-world-clock-demo/index.html",
+    "precache-manifest.c094e7b9ee630eb131516bb2a8f6dd91.js": "/react-world-clock-demo/precache-manifest.c094e7b9ee630eb131516bb2a8f6dd91.js",
+    "service-worker.js": "/react-world-clock-demo/service-worker.js",
+    "static/css/2.c8e6cc25.chunk.css.map": "/react-world-clock-demo/static/css/2.c8e6cc25.chunk.css.map",
+    "static/css/main.654d8047.chunk.css.map": "/react-world-clock-demo/static/css/main.654d8047.chunk.css.map",
+    "static/js/2.2a03399f.chunk.js.LICENSE.txt": "/react-world-clock-demo/static/js/2.2a03399f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-world-clock-demo/static/media/Roboto-Regular.11eabca2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f45e22.js",
+    "static/css/2.c8e6cc25.chunk.css",
+    "static/js/2.2a03399f.chunk.js",
+    "static/css/main.654d8047.chunk.css",
+    "static/js/main.439a17c6.chunk.js"
+  ]
+}
